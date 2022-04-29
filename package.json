@@ -1,0 +1,19 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "Node File System Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajayaj0302/Node-FileSystem.git"
+  },
+  "author": "Ajay Kumar C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajayaj0302/Node-FileSystem/issues"
+  },
+  "homepage": "https://github.com/ajayaj0302/Node-FileSystem#readme"
+}
